@@ -1,4 +1,0 @@
-light_blue=#D0EBF4
-ter_color=#6F99A7
-second_color=#40798C
-primary=color=#0C1F26
