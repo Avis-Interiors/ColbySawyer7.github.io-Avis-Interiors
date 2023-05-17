@@ -61,7 +61,7 @@ mark {
 }
 
 input::-moz-focus-inner {
-	border: 0;
+	border: 1px solid white;
 	padding: 0;
 }
 
@@ -1861,7 +1861,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			box-shadow: 0 0 0 2px #464ff1;
+			box-shadow: 0 0 0 2px #272727;
 		}
 
 	select {
@@ -1970,22 +1970,22 @@ input, select, textarea {
 	}
 
 	::-webkit-input-placeholder {
-		color: rgba(255, 255, 255, 0.5) !important;
+		color: #7d9b76 !important;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: rgba(255, 255, 255, 0.5) !important;
+		color: #7d9b76 !important;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: rgba(255, 255, 255, 0.5) !important;
+		color: #7d9b76 !important;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: rgba(255, 255, 255, 0.5) !important;
+		color: #7d9b76 !important;
 		opacity: 1.0;
 	}
 
@@ -2492,7 +2492,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #464ff1;
+			background-color: white;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2896,23 +2896,23 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 ::-webkit-input-placeholder {
-				color: #a6e0db !important;
+				color: #1f5014 !important;
 			}
 
 			.wrapper.style1 :-moz-placeholder {
-				color: #a6e0db !important;
+				color: #1f5014 !important;
 			}
 
 			.wrapper.style1 ::-moz-placeholder {
-				color: #a6e0db !important;
+				color: #1f5014 !important;
 			}
 
 			.wrapper.style1 :-ms-input-placeholder {
-				color: #a6e0db !important;
+				color: #1f5014 !important;
 			}
 
 			.wrapper.style1 .formerize-placeholder {
-				color: #a6e0db !important;
+				color: #1f5014 !important;
 			}
 
 			.wrapper.style1 .icon.major {
@@ -3059,23 +3059,23 @@ input, select, textarea {
 			}
 
 			.wrapper.style3 ::-webkit-input-placeholder {
-				color: #b9bad4 !important;
+				color: 1f5014 !important;
 			}
 
 			.wrapper.style3 :-moz-placeholder {
-				color: #b9bad4 !important;
+				color: 1f5014 !important;
 			}
 
 			.wrapper.style3 ::-moz-placeholder {
-				color: #b9bad4 !important;
+				color: 1f5014 !important;
 			}
 
 			.wrapper.style3 :-ms-input-placeholder {
-				color: #b9bad4 !important;
+				color: 1f5014 !important;
 			}
 
 			.wrapper.style3 .formerize-placeholder {
-				color: #b9bad4 !important;
+				color: 1f5014 !important;
 			}
 
 			.wrapper.style3 .icon.major {
@@ -3222,23 +3222,23 @@ input, select, textarea {
 			}
 
 			.wrapper.style5 ::-webkit-input-placeholder {
-				color: #8E8892 !important;
+				color: #1f5014 !important;
 			}
 
 			.wrapper.style5 :-moz-placeholder {
-				color: #8E8892 !important;
+				color: #1f5014 !important;
 			}
 
 			.wrapper.style5 ::-moz-placeholder {
-				color: #8E8892 !important;
+				color: #1f5014 !important;
 			}
 
 			.wrapper.style5 :-ms-input-placeholder {
-				color: #8E8892 !important;
+				color: #1f5014 !important;
 			}
 
 			.wrapper.style5 .formerize-placeholder {
-				color: #8E8892 !important;
+				color: #1f5014 !important;
 			}
 
 			.wrapper.style5 .icon.major {
