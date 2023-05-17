@@ -4004,3 +4004,10 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+	@media (max-width: 850px) {
+		.responsive-text {
+			display: none !important;
+		}
+	}
+	
