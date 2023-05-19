@@ -4010,4 +4010,12 @@ input, select, textarea {
 			display: none !important;
 		}
 	}
+
+	@media (max-width: 850px) {
+		.responsive-logo {
+			height: 550px;
+			width: 550px;
+		}
+	}
+	
 	
